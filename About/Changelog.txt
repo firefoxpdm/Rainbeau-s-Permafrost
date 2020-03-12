@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------
   Changelog for "Rainbeau's Permafrost"
 ---------------------------------------------------------------------------------
+- 2020-03-12
+    - Updated to 1.1
 
 - 11/11/2018
 	- It should now be possible to build bridges over frozen water tiles just as

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-	<name>[RF] Permafrost [1.0]</name>
+	<name>[RF] Permafrost [1.1]</name>
 	<author>Rainbeau Flambe</author>
-	<url>https://ludeon.com/forums/index.php?topic=46165</url>
-	<targetVersion>1.0.0</targetVersion>
-	<description>(Last update: 11/11/2018)
+	<url>https://github.com/firefoxpdm/Rainbeau-s-Permafrost</url>
+	<supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+	<description>(Last update: 2020-03-11)
+	
+Originally from https://ludeon.com/forums/index.php?topic=46165
 
 "Permafrost," as you'd probably guess, adds a new biome to the game. Permafrost exists on the border between tundra and ice sheets. The ground is permanently frozen, and much of it is covered in ice, but unlike the ice on ice sheets, the ground ice here is at most a few meters, rather than kilometers, thick. There is little vegetation beyond scrub brush, and few animals.
 

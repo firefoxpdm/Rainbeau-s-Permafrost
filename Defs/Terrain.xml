@@ -19,6 +19,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -39,6 +40,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -59,6 +61,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -79,6 +82,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -99,6 +103,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -119,6 +124,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -139,6 +145,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -159,6 +166,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -179,6 +187,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 
 	<TerrainDef>
@@ -199,6 +208,7 @@
 		<generatedFilth>Filth_Dirt</generatedFilth>
 		<fertility>0.00</fertility>
 		<takeFootprints>True</takeFootprints>
+		<filthAcceptanceMask>Natural</filthAcceptanceMask>
 	</TerrainDef>
 	
 </Defs>
